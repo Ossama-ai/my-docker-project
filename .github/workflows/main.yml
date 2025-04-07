@@ -17,4 +17,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: sanimi/my-app:latest # DockerFile
+          tags: sanimi/my-app:latest 
